@@ -1,0 +1,4 @@
+name = "ThermoFluid"
+uuid = "1f1089cf-0db3-4f5d-b8d8-a5ddb77364ec"
+authors = ["matthew-kapp <mattkapp.python@gmail.com>"]
+version = "0.1.0"
